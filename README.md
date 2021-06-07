@@ -7,9 +7,12 @@ In this module I analyzed ridesharing data from Pyber. I looked specifically at 
 
 ## Results
 
-When it comes to total rides, Urban won out by at least 2.5 times more than suburban and 13 times more than rural. Urban also had more drivers by almost 5 times more than suburban and almost 31 times more than rural. This information correlates with urban winning out on total fares. Urban grossed $39,854.38. With suburban following with $19,356.33 and rural with $4,327.93. However, the average fare per ride was highest in rural cities with an average fare of $34.62. Correlating with that information, the average fare per driver was highest in rural as well with an average fare of $55.49.
+When it comes to total rides, Urban won out by at least 2.5 times more than suburban and 13 times more than rural. Urban also had more drivers by almost 5 times more than suburban and almost 31 times more than rural. This information correlates with urban winning out on total fares. Urban grossed $39,854.38. With suburban following with $19,356.33 and rural with $4,327.93. However, the average fare per ride was highest in rural cities with an average fare of $34.62. Correlating with that information, the average fare per driver was highest in rural as well with an average fare of $55.49. As for the total fares by city type, urban kept a continually large lead over suburban and rural cities.
 
 ![pyber summary data](https://user-images.githubusercontent.com/81715217/120944682-6ba50580-c6fb-11eb-924e-5ac518421871.png)
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/81715217/120945289-19b1af00-c6fe-11eb-8cbe-789be943b2a5.png)
+
 
 ## Summary
 
